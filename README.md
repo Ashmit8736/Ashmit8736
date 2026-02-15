@@ -18,10 +18,6 @@
     <!-- Database -->
   <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-
-  <br/>
-  
-## Tools & Platforms
   <!-- Tools & Platforms -->
   <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></span>
@@ -29,12 +25,7 @@
   <span><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></span>
-
-  <br/>
-  
-## Hosting
   <!-- Hosting -->
-
   <span><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/></span>
 
