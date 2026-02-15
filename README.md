@@ -1,12 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=130&color=0:000000,100:000000&text=<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+FULL+STACK+DEVELOPER;B.TECH+IT+STUDENT+2025" />
-</p>%20&fontColor=22C55E&fontSize=56&animation=fadeIn)
-
-
-
-
-
-
+</p>
 ---
 
 ## 🛠 MERN FULL STACK DEVELOPER
@@ -99,4 +93,3 @@ Previously completed a **Web Development Internship at Codsoft** and worked as a
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:0F2027&height=90&section=footer)
