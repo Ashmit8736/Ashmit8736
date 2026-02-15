@@ -9,6 +9,7 @@ type=rect
 &animation=fadeIn)
 
 
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?
