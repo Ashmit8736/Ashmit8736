@@ -1,5 +1,13 @@
 <!-- ===================== HEADER ===================== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,100:203A43&text=Ashmit%20Singh&fontColor=FFFFFF&fontSize=42&desc=B.Tech%20IT%20Student%20|%202025&descSize=18&descAlign=50&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?
+type=rect
+&height=90
+&color=0:0F2027,100:203A43
+&text=Ashmit%20Singh%20|%20MERN%20Full%20Stack%20Developer
+&fontColor=FFFFFF
+&fontSize=20
+&animation=fadeIn)
+
 
 <p align="center">
   <img 
