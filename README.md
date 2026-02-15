@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
 
-## MERN FULL STACK
+## MERN FULL STACK DEVELOPER
 <span>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
@@ -30,7 +30,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<span>
   <a href="https://www.linkedin.com/in/ashmit8736" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/rajputashmit8736" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
+</span>
 
 ## 🚀 Featured Projects
 
