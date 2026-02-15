@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
 
 ## Frontend
-<p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
