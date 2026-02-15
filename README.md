@@ -47,5 +47,9 @@ Previously completed a **Web Development Internship at Codsoft** and worked as a
   <a href="https://www.facebook.com/rajputashmit8736" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</span>
+</span>  
+
+## 🐍 Contribution Activity
+![GitHub Contribution Snake](https://github.com/Ashmit8736/Ashmit8736/blob/output/github-contribution-grid-snake.svg)
+
 
