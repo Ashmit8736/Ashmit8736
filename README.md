@@ -6,15 +6,6 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit8736&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit8736&layout=compact&theme=radical&cache_seconds=86400&v=1" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -32,9 +23,55 @@
   </a>
 </p>
 
-## 🐍 Contribution Graph
+## 🚀 Featured Projects
 
-![Snake animation](https://github.com/Ashmit8736/Ashmit8736/blob/output/github-contribution-grid-snake.svg)
+### 🔐 Broken Auth Assignment
+- Authentication & authorization flow (JWT)
+- Login / Signup bugs fixing assignment
+- Focus on backend security & validation  
+🔗 https://github.com/Ashmit8736/Broken_auth_assignment
+
+---
+
+### 🛍️ LOGIN & SIGNUP – MERN Stack
+- Complete Login & Signup system
+- MERN stack implementation
+- Protected routes & user authentication  
+🔗 https://github.com/Ashmit8736/LOGIN_SIGNUP_MERN
+
+---
+
+### 📚 BookStore Web App (MERN)
+- Full-stack Bookstore application
+- User & Admin functionality
+- REST API integration  
+🔗 https://github.com/Ashmit8736/BookStoreWebApp
+
+---
+
+### 🏢 Enterprises Web App
+- Business-oriented web application
+- Separate frontend & backend architecture
+- Scalable MERN structure  
+🔗 https://github.com/Ashmit8736/EnterprisesWebApp  
+🔗 Backend: https://github.com/Ashmit8736/EnterprisesWebApp-Backend
+
+---
+
+### 🛒 Amazon Clone
+- UI clone of Amazon homepage
+- HTML, CSS & JavaScript based
+- Responsive layout practice  
+🔗 https://github.com/Ashmit8736/Amazon_clone
+
+---
+
+### 🌦️ Weather Web App
+- Real-time weather data
+- API integration
+- Clean UI & async JavaScript  
+🔗 https://github.com/Ashmit8736/Weather_WebApp
+
 
 
 
