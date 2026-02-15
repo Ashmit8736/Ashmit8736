@@ -1,7 +1,3 @@
-## 🛠 Tech Stack
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
-
 ## MERN FULL STACK DEVELOPER
 <span>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
@@ -25,6 +21,19 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/></span>
 
+## 👨‍💻 About Me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
+
+I’m a passionate **B.Tech Information Technology student (2025)** with hands-on experience in **Full Stack Web Development** using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
+
+I have built multiple **Full Stack projects**, including a **Book Store Web App**, an **Enterprise Application with role-based authentication**, and a **Weather App** with real-time **API integration**.
+
+Currently, I am working as a **MERN Full Stack Developer Intern** at **Mojija E-Commerce Private Limited**, where I am gaining practical experience in developing **scalable and responsive Full Stack applications**.
+
+Previously, I completed a **Web Development Internship** at **Codsoft** and worked as a **WordPress Developer** at **Oxo Journey Pvt. Ltd.**
+
+🚀 I am passionate about building **secure, user-friendly applications** and continuously improving my **Full Stack development skills**.
 
 
 
