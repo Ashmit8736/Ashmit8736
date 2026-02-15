@@ -81,3 +81,4 @@ Previously completed a **Web Development Internship at Codsoft** and worked as a
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Ashmit8736)
