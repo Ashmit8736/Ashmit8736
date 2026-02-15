@@ -59,14 +59,6 @@ Previously completed a **Web Development Internship at Codsoft** and worked as a
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashmit8736/Ashmit8736/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
