@@ -1,29 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-![Header](https://capsule-render.vercel.app/api?
-type=rect
-&height=90
-&color=0:0F2027,100:203A43
-&text=Ashmit%20Singh%20|%20MERN%20Full%20Stack%20Developer
-&fontColor=FFFFFF
-&fontSize=20
-&animation=fadeIn)
-
-
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=22
-    &pause=1000
-    &color=38BDF8
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=Ashmit+Singh;MERN+Full+Stack+Developer;B.Tech+IT+Student+2025" 
-  />
-</p>
-
 
 ---
 
