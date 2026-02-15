@@ -32,14 +32,6 @@
   </a>
 </p>
 
-<a href="mailto:ashmit8736@gmail.com?subject=Hello%20Ashmit" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-  <a href="tel:+918736971973">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
 
 
 
