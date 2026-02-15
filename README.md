@@ -1,10 +1,20 @@
 <!-- ===================== HEADER ===================== -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,100:203A43&text=Ashmit%20Singh&fontColor=FFFFFF&fontSize=42&desc=B.Tech%20IT%20Student%20|%202025&descSize=18&descAlign=50&descAlignY=75)
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=EAEAEA&size=22&center=true&vCenter=true&width=600&lines=MERN+Full+Stack+Developer;B.Tech+IT+Student+%7C+2025;Building+Scalable+Web+Apps" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code
+    &size=22
+    &pause=1000
+    &color=38BDF8
+    &center=true
+    &vCenter=true
+    &width=700
+    &lines=Ashmit+Singh;MERN+Full+Stack+Developer;B.Tech+IT+Student+2025" 
+  />
 </p>
+
 
 ---
 
