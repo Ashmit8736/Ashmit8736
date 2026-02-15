@@ -1,3 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0F2027,100:203A43)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Ashmit+Singh+|+MERN+Full+Stack+Developer;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
