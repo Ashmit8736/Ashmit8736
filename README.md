@@ -3,8 +3,6 @@
 </p>
 ---
 
-## 🛠 MERN FULL STACK DEVELOPER
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css3"/>
