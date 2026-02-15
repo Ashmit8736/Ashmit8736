@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0B0F14,100:0F172A&text=Ashmit%20Singh&fontColor=22C55E&fontSize=34&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&height=130&color=0:000000,100:000000&text=ASHMIT%20SINGH&fontColor=22C55E&fontSize=56&animation=fadeIn)
+
 
 
 <p align="center">
