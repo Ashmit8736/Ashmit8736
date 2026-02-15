@@ -7,4 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmit8736&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit8736&layout=compact&theme=radical)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
+
+
 
