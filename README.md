@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&height=130&color=0:000000,100:000000&text=ASHMIT%20SINGH&fontColor=22C55E&fontSize=56&animation=fadeIn)
-
-
-
-<p align="center">
+![Header](https://capsule-render.vercel.app/api?type=rect&height=130&color=0:000000,100:000000&text=<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+FULL+STACK+DEVELOPER;B.TECH+IT+STUDENT+2025" />
-</p>
+</p>%20&fontColor=22C55E&fontSize=56&animation=fadeIn)
+
+
+
+
 
 
 ---
@@ -35,7 +35,6 @@
 </p>
 
 ---
-![About](https://capsule-render.vercel.app/api?type=rect&height=230&color=0:000000,100:000000&text=ABOUT%20ME&fontColor=22C55E&fontSize=34&desc=🎓%20B.Tech%20Information%20Technology%20(2025)%0A💼%20MERN%20Full%20Stack%20Developer%20Intern%20at%20Mojija%20E-Commerce%20Pvt.%20Ltd.%0A%0AI%20build%20scalable%2C%20secure%20and%20responsive%20full-stack%20applications%20using%20the%20MERN%20stack.%0AWorked%20on%20Book%20Store%20App%2C%20Enterprise%20RBAC%20App%2C%20Weather%20App.%0A%0APreviously%20interned%20at%20Codsoft%20and%20worked%20as%20WordPress%20Developer%20at%20Oxo%20Journey.%0A🚀%20Continuously%20improving%20my%20Full%20Stack%20skills.&descColor=22C55E&descSize=14)
 
 ## 👨‍💻 About Me
 
