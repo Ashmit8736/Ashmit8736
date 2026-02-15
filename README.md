@@ -32,6 +32,11 @@
   </a>
 </p>
 
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Ashmit8736/Ashmit8736/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
