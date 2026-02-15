@@ -7,8 +7,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmit8736&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit8736&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit8736&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit8736&layout=compact&theme=radical" />
+</p>
+
 
 
 
