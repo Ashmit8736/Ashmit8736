@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=MERN+Full+Stack+Developer;B.Tech+IT+Student+2025" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=MERN+FULL+STACK+DEVELOPER;B.TECH+IT+STUDENT+2025" />
 </p>
+
 
 ---
 
