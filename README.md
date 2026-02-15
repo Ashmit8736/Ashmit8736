@@ -1,5 +1,7 @@
-## 🛠 Tech Stack  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
+## 🛠 Tech Stack  
+
 <p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
