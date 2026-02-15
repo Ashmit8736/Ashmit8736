@@ -24,6 +24,7 @@
 
 ## 👨‍💻 About Me
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor)
+
 I’m a passionate **B.Tech Information Technology student (2025)** with hands-on experience in **Full Stack Web Development (MERN stack)**.  
 Built multiple full-stack projects including a **Book Store Web App**, **Enterprise application with role-based authentication**, and a **Weather App** with real-time API integration.  
 Currently working as a **MERN Full Stack Developer Intern at Mojija E-Commerce Pvt. Ltd.**, focusing on scalable and responsive applications.  
