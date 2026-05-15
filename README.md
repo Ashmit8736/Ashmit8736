@@ -65,6 +65,3 @@ Previously completed a **Web Development Internship at Codsoft** and worked as a
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ashmit8736)
 ---
 📄 [Download Resume](your-link-here)
-
-
-aur improve kro isko all data same rahega bs ui look better krke full cod e do
